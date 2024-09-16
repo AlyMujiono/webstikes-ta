@@ -1,0 +1,48 @@
+{
+  "name": "webstikes",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "cypress:open": "cypress open"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.7.17",
+    "@heroicons/react": "^2.0.18",
+    "@nextui-org/react": "^2.2.6",
+    "@react-stately/data": "^3.11.0",
+    "@types/cypress": "^1.1.3",
+    "chart.js": "^4.4.0",
+    "clsx": "^2.0.0",
+    "firebase": "^10.6.0",
+    "firebase-admin": "^11.11.1",
+    "framer-motion": "^10.16.4",
+    "next": "^14.0.2",
+    "next-themes": "^0.2.1",
+    "react": "^18",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18",
+    "react-icons": "^4.11.0",
+    "react-toastify": "^9.1.3",
+    "react-virtualized": "^9.22.5",
+    "tailwind-datepicker-react": "^1.4.3",
+    "use-file-picker": "^2.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/react-virtualized": "^9.21.27",
+    "@types/uuid": "^9.0.7",
+    "autoprefixer": "^10.0.1",
+    "cypress": "^13.6.0",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.1",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  }
+}

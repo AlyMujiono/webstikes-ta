@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sikes-klumbayan-barat",
+  "private_key_id": "fed6d07c953ef7300a7d810c6049f83a55f2da03",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCjyqaZlYobbfiU\n/obHGi/Kc7PGShmSaEyPh+4+LsUSWhO3BEUGXytF4DX0BIK+MuZWb2E0Z6piAqpw\nNDFpMS/clD//C/j0vgK1RIzCdet/zFZsnj40xFET/ZaMthUafaRTuxx700IxZNri\nKVQ+2191UnRyT7/Hwg9okwdCk8TyvVE3kUkohK5Pk2Ikd4HyWuDAdeCjO7inY5VG\n0PpoR+zRTxfZpayB0pCxaRFxSgJwN4XAIPPkqlhUTG7nciQJYo/aAgqbSlZp9GsR\nVMLzpXucKpg4FsIGTNi37mM4tRohlJpcoQqPqV/QvBHuV2D0R1WQDJZMidn0Zhnc\nMwCxGVMBAgMBAAECggEAO4JOY3C8e9jJv0B2sXInOPQutfWIMvRoFKH7gmY1vcQy\nc4U+muEK9NlQYPcelYIiw/a1p3eepPt490lPRnvTet32HnE4I5vBmiBsz95OEOGp\n6M7ZpQxKtOumvjsNkdFiWfWalLadzxpomFERxcCofxTVMA8fi7FLLeB1e8/6d4KS\nZimnBnaxNBHee/pVBr/oKFAowZWNcpyXSyqu5MiDbzhI6qRqDv/EINCEzmGJ6MtV\nx2o7HE2OXtJXgQdIorTx9qOS8rzFHzK2xvglFrHu9cm9Q4spfbfwFHP6ndhh46Sy\nPtRimKQXxMzB3WSv2HBX2/l4bDSBsmb3zTAVOm0o/QKBgQDP6ryDks9NF95n2MUN\nYql+XfPDr9/3ekamZ+JxWdGjzjW6SO7JePdwblNbosxEMsT0oKSu6xPXt4S9UOOG\nYtwD82QTmxVKb73nCgbFOrfJthV6y6HnliLIQ8IDrwhoo0klQWiguOyCoeXbsTLU\nKOoNg5cOMOQkG0iR1UVPOZ0W4wKBgQDJq5JDFXg60P+pSTnsDP1arznzC3AmR63c\nsWOuZs/n7jDVjQtthKCP6I03H+3HlxFpY4UO8ZpuHbaQNkU7F9agPzEGqYLxE/FS\nBwlln/70WxIrI6pUfRJyHV3OnJjRJR3tPzADFoodAQfKNTPNtafI9ChVNDRAqNhw\n67fV2AGvywKBgFTDYANL8NN/LZ6skvk4Bd2Ms/pNU0NzSCZDJ+AKPBtJ0EGXxjHA\n7S+a6sTrA9ex0vXgIANntvk0yhrcRUXeO9Aog94yVWW5VHRCdCwoGhFT+EHNjr35\nSUjXxtr1mrn+B632ko8jlNhU5H7CKPSxkWndAdI5QGkv7k/14IHB/Tb9AoGAbmNk\ntyWsXv2BxAcaFnRxxc6+eKQdKkb4CyJqPs92JC0EPBBtXfBH9x3DFpZ6kFLHrBlW\nfvyOnJHVGZErShJdX+/XBR+KVi2lXVIOubrfUp/7DPQDyyV/EEm0zGB5YZngjLmW\nrUoMJZ4nxm5iwcoaYmwLG8BsjawedYkBYqNPIQsCgYA690gkCOaksJM9NpPxcnGv\np1YZbx/Yi8tHyFISh8yFHDGpOt87bDmFDewGmAsCPt5x/FSimaytJuV8rZXbx+QN\nn/j+7g2NtLAr3VH+2Hup21fsFTqQI3gcleaI03D1cGAbRHXb01wBiTxxrSLC8zaK\nE2dnZcKp+Jii1n9rZunC3A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-sg6h1@sikes-klumbayan-barat.iam.gserviceaccount.com",
+  "client_id": "117376784423782592974",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-sg6h1%40sikes-klumbayan-barat.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
